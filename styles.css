@@ -62,7 +62,7 @@ header nav ul li a:hover {
     background: rgba(0, 0, 0, 0.6);
     padding: 20px;
     border-radius: 10px;
-    transform: translateY(-5rem);
+    transform: translateY(-10rem);
 }
 
 #hero h1 {
